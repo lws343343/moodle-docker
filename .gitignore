@@ -1,0 +1,23 @@
+# Environment variables (contains passwords)
+.env
+
+# Moodle data (uploads, cache, etc.)
+moodledata/
+
+# Database Docker volume (if bind‐mounted here)
+db_data/
+
+# Backup archives and SQL dumps
+*.sql
+*.tgz
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# IDE configs
+.vscode/
+.idea/
+
+# Node modules
+node_modules/
