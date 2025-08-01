@@ -1,2 +1,2 @@
-# moodle-docker-backup
+# moodle-docker
 backup of configuration of moodle-docker
