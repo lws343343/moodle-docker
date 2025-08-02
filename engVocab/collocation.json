@@ -92,7 +92,7 @@
   {
     "id": "q0019",
     "question": "throw a tantrum",
-    "answer": "to have an angry outburst or display of frustration,typically by a child"
+    "answer": "to have an angry outburst or display of frustration typically by a child"
   },
   {
     "id": "q0020",
@@ -188,5 +188,125 @@
     "id": "q0038",
     "question": "decide by oneself",
     "answer": "\"by oneself\" emphasizes alone without help."
+  },
+  {
+    "id": "q0039",
+    "question": "observe silence",
+    "answer": "to keep or maintain silence intentionally in formal or public setting (library,ceremony,moment of silence)."
+  },
+  {
+    "id": "q0040",
+    "question": "ring through the air",
+    "answer": "standard phrase: to be heard clearly and distinctly in the air. e.g. \"a loud,clear and sharp sound \" echoing or traveling through space. often used for bells,screams,or gunshots. more vivid image of traveling in space comparing with pieceing."
+  },
+  {
+    "id": "q0041",
+    "question": "strike a match",
+    "answer": "cause a match to burn by rubbing it against a hard rough surface"
+  },
+  {
+    "id": "q0042",
+    "question": "rummage through Cabinets and drawers",
+    "answer": "to search through cabinets and drawers in a disorganized or haphazard manner"
+  },
+  {
+    "id": "q0043",
+    "question": "run errands",
+    "answer": "to perform small tasks or chores,often outside the home"
+  },
+  {
+    "id": "q0044",
+    "question": "native to",
+    "answer": "originating or naturally occurring in a particular place or environment."
+  },
+  {
+    "id": "q0045",
+    "question": "standing on one leg",
+    "answer": "to balance on one leg,often used in exercises or physical activities"
+  },
+  {
+    "id": "q0046",
+    "question": "with more time on their hands",
+    "answer": "having extra time available to do something"
+  },
+  {
+    "id": "q0047",
+    "question": "trial and error",
+    "answer": "a method of problem-solving characterized by trying various solutions until finding one that works"
+  },
+  {
+    "id": "q0048",
+    "question": "come down on",
+    "answer": "criticize or punish harshly someone for their actions or decisions"
+  },
+  {
+    "id": "q0049",
+    "question": "all proceeds are donated to",
+    "answer": "all money raised or earned is given to a charity"
+  },
+  {
+    "id": "q0050",
+    "question": "a roof over one's head",
+    "answer": "a place to live or shelter,often used in a metaphorical sense to refer to having a stable home or living situation"
+  },
+  {
+    "id": "q0051",
+    "question": "a way of giving back to the community / society",
+    "answer": "a method or action that contributes positively to the local community or society"
+  },
+  {
+    "id": "q0052",
+    "question": "building blocks",
+    "answer": "fundamental components or elements that are essential for creating or developing something larger or more complex"
+  },
+  {
+    "id": "q0053",
+    "question": "get that much deserved rest",
+    "answer": "to finally receive the rest or relaxation that one has earned or needed"
+  },
+  {
+    "id": "q0054",
+    "question": "get a good night's sleep",
+    "answer": "to have a restful and restorative sleep during the night"
+  },
+  {
+    "id": "q0055",
+    "question": "subject to",
+    "answer": "likely to be affected by or experience something,often used in legal or formal contexts"
+  },
+  {
+    "id": "q0056",
+    "question": "tight deadline",
+    "answer": "a deadline that is difficult to meet due to its short time frame or urgency"
+  },
+  {
+    "id": "q0057",
+    "question": "should...you",
+    "answer": "should you decide to go to the park,I will join you."
+  },
+  {
+    "id": "q0058",
+    "question": "on one hand...on the other hand",
+    "answer": "used to present two contrasting perspectives or options"
+  },
+  {
+    "id": "q0059",
+    "question": "accede to my request",
+    "answer": "to agree to or accept my request,often after some persuasion or negotiation"
+  },
+  {
+    "id": "q0060",
+    "question": "object to my request",
+    "answer": "to express disapproval or disagreement with my request"
+  },
+  {
+    "id": "q0061",
+    "question": "attribute to",
+    "answer": "attribute to success to parent's unwaveing love and support,to regard something as being caused by or resulting from a particular source or factor"
+  },
+  {
+    "id": "q0062",
+    "question": "spend within your means",
+    "answer": "to manage your finances in a way that does not exceed your available resources or budget."
   }
 ]

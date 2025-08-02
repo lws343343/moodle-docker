@@ -262,12 +262,12 @@
   {
     "id": "v0053",
     "question": "stagger",
-    "answer": "to walk or move unsteadily,as if about to fall."
+    "answer": "to walk or move unsteadily as if about to fall."
   },
   {
     "id": "v0054",
     "question": "staggering",
-    "answer": "deeply shocking, astonishing."
+    "answer": "deeply shocking; astonishing."
   },
   {
     "id": "v0055",
@@ -1317,27 +1317,27 @@
   {
     "id": "v0264",
     "question": "Mentor",
-    "answer": "an experienced and trusted advisor."
+    "answer": "an experienced and trusted advisor who teaches a less experienced person over time (ongoing)."
   },
   {
     "id": "v0265",
     "question": "Guide",
-    "answer": "a person who leads or directs others; often providing information and assistance."
+    "answer": "a person who leads or directs others along a path or route,temporarily,one-off help"
   },
   {
     "id": "v0266",
     "question": "embezzling",
-    "answer": "to secretly take money or property entrusted to one's care for personal use; to misappropriate funds."
+    "answer": "illegally take or misusing money that you are trusted to manage,typically in job."
   },
   {
     "id": "v0267",
     "question": "bout",
-    "answer": "a short period of intense activity or a contest; often used to describe a fight or struggle."
+    "answer": "aa short period of intense activity: a contest or illness; esp. fight or struggle or something unpleasant. e.g. \"A bout of flu\": a short episode sb was sick with the flu."
   },
   {
     "id": "v0268",
     "question": "mongrel",
-    "answer": "a dog of mixed breed."
+    "answer": "a mixed breed dog."
   },
   {
     "id": "v0269",
@@ -1353,5 +1353,15 @@
     "id": "v0271",
     "question": "bells and whistles",
     "answer": "special features or embellishments that are added to a product or service to make it more attractive or appealing."
+  },
+  {
+    "id": "v0272",
+    "question": "let bygones be bygones",
+    "answer": "to forget past disagreements or conflicts and move on."
+  },
+  {
+    "id": "v0273",
+    "question": "put away",
+    "answer": "to keep something in its proper place or to store it away."
   }
 ]
